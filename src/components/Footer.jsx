@@ -1,4 +1,5 @@
 import React from 'react';
+import logoSvg from '../assets/logo.svg';
 
 const Footer = () => {
   return (
@@ -6,8 +7,8 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           <div className="col-span-1 md:col-span-2">
-            <div className="text-3xl font-black tracking-tighter text-white mb-6">
-              DIET <span className="text-primary">COLA</span>
+            <div className="mb-6">
+              <img src={logoSvg} alt="Diet Cola Logo" className="h-10" />
             </div>
             <p className="text-gray-500 max-w-sm">
               Refresh your world. Stay bold, stay crisp, stay unapologetic.

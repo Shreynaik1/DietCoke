@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useLocation } from 'react-router-dom';
+import logoSvg from '../assets/logo.svg';
 
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
@@ -29,8 +30,8 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
         {/* Logo */}
-        <Link to="/" className="text-2xl font-black tracking-tighter text-white hover:opacity-80 transition-opacity">
-          DIET <span className="text-primary">COLA</span>
+        <Link to="/" className="hover:opacity-80 transition-opacity">
+          <img src={logoSvg} alt="Diet Cola Logo" className="h-8 md:h-10" />
         </Link>
 
         {/* Desktop Links */}
