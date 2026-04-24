@@ -2,7 +2,7 @@
 
 A modern and visually engaging frontend-only e-commerce UI inspired by Diet Coke. This project showcases a premium product experience with smooth animations, interactive UI, and responsive design.
 
-Live Demo: [https://diet-coke-nu.vercel.app/shop](https://diet-coke-nu.vercel.app/)
+Live Demo: https://diet-coke-nu.vercel.app/
 
 ---
 
