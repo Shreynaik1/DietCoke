@@ -73,7 +73,7 @@ Diet Coke is a sugar-free, low-calorie cola introduced in 1982 and produced by T
 
 <p>
   <img src="https://github.com/user-attachments/assets/c3b996f3-9e76-442e-9ca9-924f1652f2ac" width="49%" />
-  <img src="https://github.com/user-attachments/assets/f482daca-947e-45b8-82b5-423d78b03f23" width="49%" />
+  <img src="https://github.com/user-attachments/assets/756005ed-18ff-4640-8ab7-d028d44ad748" width="49%" />
 </p>
 
 <br/>
@@ -85,9 +85,7 @@ Diet Coke is a sugar-free, low-calorie cola introduced in 1982 and produced by T
 
 <br/>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/756005ed-18ff-4640-8ab7-d028d44ad748" width="49%" />
-</p>
+
 
 
 ---
