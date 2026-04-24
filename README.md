@@ -64,13 +64,30 @@ Diet Coke is a sugar-free, low-calorie cola introduced in 1982 and produced by T
 
 ## Screenshots
 
-<img width="1906" height="857" alt="Screenshot 2026-04-25 024317" src="https://github.com/user-attachments/assets/d7dad90a-71aa-4315-b263-b2d907144971" />
-<img width="1918" height="850" alt="Screenshot 2026-04-25 024553" src="https://github.com/user-attachments/assets/a27f5c1c-b0e8-4e57-b154-43e3ab785dd7" />
-<img width="1918" height="865" alt="Screenshot 2026-04-25 024541" src="https://github.com/user-attachments/assets/c3b996f3-9e76-442e-9ca9-924f1652f2ac" />
-<img width="1918" height="845" alt="Screenshot 2026-04-25 024511" src="https://github.com/user-attachments/assets/f482daca-947e-45b8-82b5-423d78b03f23" />
-<img width="1918" height="837" alt="Screenshot 2026-04-25 024453" src="https://github.com/user-attachments/assets/9c39295a-a7ec-4981-8cc1-6c890cbd2610" />
-<img width="1913" height="852" alt="Screenshot 2026-04-25 024437" src="https://github.com/user-attachments/assets/77b64d37-aaa3-41ac-9b04-642b73e6ff33" />
-<img width="1917" height="843" alt="Screenshot 2026-04-25 024417" src="https://github.com/user-attachments/assets/756005ed-18ff-4640-8ab7-d028d44ad748" />
+<p>
+  <img src="https://github.com/user-attachments/assets/d7dad90a-71aa-4315-b263-b2d907144971" width="49%" />
+  <img src="https://github.com/user-attachments/assets/a27f5c1c-b0e8-4e57-b154-43e3ab785dd7" width="49%" />
+</p>
+
+<br/>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/c3b996f3-9e76-442e-9ca9-924f1652f2ac" width="49%" />
+  <img src="https://github.com/user-attachments/assets/f482daca-947e-45b8-82b5-423d78b03f23" width="49%" />
+</p>
+
+<br/>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/9c39295a-a7ec-4981-8cc1-6c890cbd2610" width="49%" />
+  <img src="https://github.com/user-attachments/assets/77b64d37-aaa3-41ac-9b04-642b73e6ff33" width="49%" />
+</p>
+
+<br/>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/756005ed-18ff-4640-8ab7-d028d44ad748" width="49%" />
+</p>
 
 
 ---
