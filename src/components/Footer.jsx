@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           <div className="col-span-1 md:col-span-2">
             <div className="mb-6">
-              <img src={logoSvg} alt="Diet Cola Logo" className="h-10" />
+              <img src={logoSvg} alt="Diet Cola Logo" className="h-10 w-auto" />
             </div>
             <p className="text-gray-500 max-w-sm">
               Refresh your world. Stay bold, stay crisp, stay unapologetic.

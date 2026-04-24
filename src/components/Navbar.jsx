@@ -30,8 +30,8 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
         {/* Logo */}
-        <Link to="/" className="hover:opacity-80 transition-opacity">
-          <img src={logoSvg} alt="Diet Cola Logo" className="h-8 md:h-10" />
+        <Link to="/" className="hover:opacity-80 transition-opacity flex items-center">
+          <img src={logoSvg} alt="Diet Cola Logo" className="h-8 md:h-10 w-auto" />
         </Link>
 
         {/* Desktop Links */}
