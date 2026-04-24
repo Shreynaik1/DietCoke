@@ -1,16 +1,117 @@
-# React + Vite
+# Diet Coke Shop UI (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually engaging frontend-only e-commerce UI inspired by Diet Coke. This project showcases a premium product experience with smooth animations, interactive UI, and responsive design.
 
-Currently, two official plugins are available:
+Live Demo: https://diet-coke-nu.vercel.app/shop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a React-based shop interface designed to simulate a real-world beverage store. It focuses on delivering a clean UI, smooth user experience, and dynamic frontend interactions without using a backend.
 
-## Expanding the ESLint configuration
+Diet Coke is a sugar-free, low-calorie cola introduced in 1982 and produced by The Coca-Cola Company.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+* Product listing UI (shop page)
+* Modern and minimal design
+* Smooth animations using Framer Motion
+* Fully responsive layout
+* Dynamic UI interactions with React state
+* Clean navigation and layout structure
+* Premium beverage-style theme
+
+---
+
+## Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS
+* Framer Motion
+
+---
+
+## Project Structure
+
+```
+/src
+  /components
+    Navbar.jsx
+    ProductCard.jsx
+    Marquee.jsx
+
+  /pages
+    Home.jsx
+    Shop.jsx
+```
+
+---
+
+## Key Learnings
+
+* Component-based architecture in React
+* State management using useState
+* Conditional rendering
+* UI/UX design principles
+* Animation handling using Framer Motion
+* Responsive design with Tailwind CSS
+
+---
+
+## Screenshots
+
+<img width="1906" height="857" alt="Screenshot 2026-04-25 024317" src="https://github.com/user-attachments/assets/d7dad90a-71aa-4315-b263-b2d907144971" />
+<img width="1918" height="850" alt="Screenshot 2026-04-25 024553" src="https://github.com/user-attachments/assets/a27f5c1c-b0e8-4e57-b154-43e3ab785dd7" />
+<img width="1918" height="865" alt="Screenshot 2026-04-25 024541" src="https://github.com/user-attachments/assets/c3b996f3-9e76-442e-9ca9-924f1652f2ac" />
+<img width="1918" height="845" alt="Screenshot 2026-04-25 024511" src="https://github.com/user-attachments/assets/f482daca-947e-45b8-82b5-423d78b03f23" />
+<img width="1918" height="837" alt="Screenshot 2026-04-25 024453" src="https://github.com/user-attachments/assets/9c39295a-a7ec-4981-8cc1-6c890cbd2610" />
+<img width="1913" height="852" alt="Screenshot 2026-04-25 024437" src="https://github.com/user-attachments/assets/77b64d37-aaa3-41ac-9b04-642b73e6ff33" />
+<img width="1917" height="843" alt="Screenshot 2026-04-25 024417" src="https://github.com/user-attachments/assets/756005ed-18ff-4640-8ab7-d028d44ad748" />
+
+
+---
+
+## Installation & Setup
+
+```bash
+git clone https://github.com/your-username/diet-coke-react-ui.git
+cd diet-coke-react-ui
+npm install
+npm run dev
+```
+
+---
+
+## Future Improvements
+
+* Add cart functionality
+* User authentication
+* Backend integration (Node.js + MongoDB)
+* Payment gateway integration
+* Real product API
+
+---
+
+## Disclaimer
+
+This project is created for educational and portfolio purposes only.
+It is not affiliated with or endorsed by Diet Coke or The Coca-Cola Company.
+
+---
+
+## Author
+
+Shrey Naik
+
+* GitHub: https://github.com/shreynaik1
+* LinkedIn: https://www.linkedin.com/in/shreynaik1/
+
+---
+
+## Support
+
+If you like this project, consider giving it a star on GitHub.
